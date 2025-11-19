@@ -128,6 +128,7 @@ class MainWindow(QMainWindow):
         self.btn1.setEnabled(False)
         self.btn2.setEnabled(True)
         self.print_output(f"Starting poisoning: victim={val1}, gateway={val2}")
+        os.system('echo 1 > /proc/sys/net/ipv4/ip_forward') 
         self.worker.start()
 
 

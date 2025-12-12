@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=ARP%20Poisoning%20Tool&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?text=ARP%20Spoofing%20Tool&type=waving&color=gradient&height=120"/>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/aakarshanmanigiri/arp-poisoning-tool/overview/main" align="left"><img src="https://www.codefactor.io/repository/github/aakarshanmanigiri/arp-poisoning-tool/badge/main" alt="CodeFactor"/></a>

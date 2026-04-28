@@ -25,10 +25,3 @@ In this case:<br>
     <li>Host-Based Firewall Rules</li>
   </ul>
 
-
-
-
-
-<h2>Disclaimer</h2>
-This Project is designed exclusively for educational purposes only.
-
